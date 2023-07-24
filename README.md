@@ -22,6 +22,23 @@ BirthDate - date
 
 
 
+Employee 
+============
+
+
+## 1. SQL query to create an **Employee** table with the following columns:
+- **ID** - Integer
+- **F_Name** - Presenting First Name, Variable-length string with maximum 60 characters
+- **L_Name** - Presenting Last Name, Variable-length string with maximum 60 characters
+- **Email** - Presenting Email, Variable-length string with maximum 60 characters
+- **P_Number** - Presenting Phone Number, Variable-length string with maximum 60 characters
+- **H_Date** - Presenting Hiring Date, Variable-length string with maximum 60 characters
+- **J_ID** - Presenting Job ID, Variable-length string with maximum 60 characters
+- **Salary** - Presenting Salary, Float
+- **C_PCT** - Presenting Commission, Float
+- **M_ID** - Presenting Manager ID, Integer 
+- **D_ID** - Presenting Department ID, Integer
+ 
 
 
 
