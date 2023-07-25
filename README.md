@@ -42,8 +42,17 @@ Employee
 - **C_PCT** - Presenting Commission, Float
 - **M_ID** - Presenting Manager ID, Integer 
 - **D_ID** - Presenting Department ID, Integer
+
+- **SQL** - query to find average salary of an employee from Employee table.
  
+- **SQL** - query to find maximum salary from Employee table.
 
+- **SQL** - query to find those employees whose salaries are greater than 10000. Return firt name, last name, and salary.
 
+ - **SQL** - query to find the employees whose salary is in the range between 9000 and 18000. Return full name, contact details and salary
 
+- **SQL** - query to find the employees whose first name starts with the letter ‘A’. Return the first and last name, and salary
 
+- **SQL** - query to count the number of employees worked under each manager. Return manager ID and the number of employees
+
+- **SQL** - query to find the employees whose first or last name begins with 'D'. Return first name and last name 
