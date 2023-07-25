@@ -6,11 +6,11 @@ Product Table
 
   
 SQL queries to create a Product table with the following columns:
-ID - Integer
-Name - Variable-length string with maximum 40 characters
-ProductType - Variable-length string with maximum 3 characters
-OriginDate - Year, month, and day
-Weight - Decimal number with six significant digits and one digit after the decimal point
+- **ID** - Integer
+- **Name** - Variable-length string with maximum 40 characters
+- **ProductType** - Variable-length string with maximum 3 characters
+- **OriginDate** - Year, month, and day
+- **Weigh**t - Decimal number with six significant digits and one digit after the decimal point
  
  Horse Table
 ============
