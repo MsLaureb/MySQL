@@ -5,7 +5,7 @@ Product Table
 ============
 
   
-SQL queries to create a Product table with the following columns:
+## SQL queries to create a Product table with the following columns:
 - **ID** - Integer
 - **Name** - Variable-length string with maximum 40 characters
 - **ProductType** - Variable-length string with maximum 3 characters
@@ -16,7 +16,7 @@ SQL queries to create a Product table with the following columns:
 ============
 
 
-SQL queries to create a Horse table with the following columns:
+## SQL queries to create a Horse table with the following columns:
 
 - **ID** -  integer, auto increment, primary key
 - **RegisteredName** -  variable-length string
@@ -30,7 +30,7 @@ Employee
 ============
 
 
-## 1. SQL query to create an **Employee** table with the following columns:
+##  SQL query to create an **Employee** table with the following columns:
 - **ID** - Integer
 - **F_Name** - Presenting First Name, Variable-length string with maximum 60 characters
 - **L_Name** - Presenting Last Name, Variable-length string with maximum 60 characters
